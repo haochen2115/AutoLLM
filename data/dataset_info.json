@@ -1,0 +1,30 @@
+{
+    "delta_data_1": {
+        "file_name": "delta_data_1.json",
+        "columns": {
+            "prompt": "question",
+            "response": "answer"
+        }
+    },
+    "delta_data_2": {
+        "file_name": "delta_data_2.json",
+        "columns": {
+            "prompt": "question",
+            "response": "answer"
+        }
+    },
+    "delta_data_3": {
+        "file_name": "delta_data_3.json",
+        "columns": {
+            "prompt": "question",
+            "response": "answer"
+        }
+    },
+    "delta_data_4": {
+        "file_name": "delta_data_4.json",
+        "columns": {
+            "prompt": "question",
+            "response": "answer"
+        }
+    }
+}
